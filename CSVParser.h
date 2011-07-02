@@ -20,7 +20,7 @@
 // SOFTWARE.
 // 
 
-#import <Cocoa/Cocoa.h>
+#import <Foundation/Foundation.h>
 
 @interface CSVParser : NSObject {
 }
